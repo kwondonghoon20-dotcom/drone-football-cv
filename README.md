@@ -61,7 +61,7 @@ v3는 주차장·골대 뒤 사람까지 선수로 잡고 심판을 구분하지
 
 ![파인튜닝 학습 곡선](figures/finetune_training_curve.png)
 
-자세한 수치와 해석은 [docs/experiment_log.md](docs/experiment_log.md)에 있습니다.
+자세한 수치와 해석은 [docs/experiment_log.md](docs/experiment_log.md)에, 채점 결과 원본은 [results/](results/)에 있습니다.
 
 ## 평가 설계
 
