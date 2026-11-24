@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+*.mp4
+*.pt
+*.zip
